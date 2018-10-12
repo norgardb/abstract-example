@@ -1,2 +1,2 @@
 # abstract-example
-Grails project : prototyping
+prototyping
